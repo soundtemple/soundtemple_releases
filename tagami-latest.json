@@ -1,0 +1,19 @@
+{
+  "version": "1.42.0",
+  "notes": "Version 1.42",
+  "pub_date": "2026-11-06T02:10:29.406Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbmltZTJPOGJEaWU2bzIyZU41b2xsUXBpRmlFYzFpaW1Nb2l0R3B5SVdndTNNYnpsU2FXa3lFSUxpMXBIaHRTVkNRdG8zaEo1Q2pjZExnK2tRMzY0WlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI0MDAyCWZpbGU6dGFnYW1pXzEuNDJfdW5pdmVyc2FsLmFwcC50YXIuZ3oKTG4vSEhzVEhPZU80VTBQRGFacUpla2dWOGhoVWVHNVNwRzR0K3pLZjVITkUwSXYyQXFkKzk1OGlBcjBvUXFRK3pocFJZZjYrcEdjdlpIWjQrWEI2QVE9PQo=",
+      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.42/tagami_1.42_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbmltZTJPOGJEaWU2bzIyZU41b2xsUXBpRmlFYzFpaW1Nb2l0R3B5SVdndTNNYnpsU2FXa3lFSUxpMXBIaHRTVkNRdG8zaEo1Q2pjZExnK2tRMzY0WlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI0MDAyCWZpbGU6dGFnYW1pXzEuNDJfdW5pdmVyc2FsLmFwcC50YXIuZ3oKTG4vSEhzVEhPZU80VTBQRGFacUpla2dWOGhoVWVHNVNwRzR0K3pLZjVITkUwSXYyQXFkKzk1OGlBcjBvUXFRK3pocFJZZjYrcEdjdlpIWjQrWEI2QVE9PQo=",
+      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.42/tagami_1.42_universal.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbnB1bmhFTG9vd3Q5K2F3UlZoOVBWZkNiZ0RnRGxGVWNwTnZKNXlCL0RBNm1vK3pxSFJUVWhKbnZ5WktNWWhoTzRpeTlmRmptWWJZck5OTUZMemhaR0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI2ODAxCWZpbGU6dGFnYW1pXzEuNDIuMF94NjRfZW4tVVMubXNpCm05N3R6cUJ6TFBRNDNLY05MdkkzeDM3MmxMUVVNZWxUaGswTXZKTzZFRFhZL0JSdS9QMFBjeDJJdnlYZk82b0JTRjBWQlBBY3NMOXRSbmJNMmVKcENRPT0K",
+      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.42/tagami_1.42.msi"
+    }
+  }
+}
