@@ -1,19 +1,19 @@
 {
-  "version": "1.43.0",
-  "notes": "v1.43 fixes Windows export to OneLibrary",
-  "pub_date": "2026-11-07T12:26:28.250Z",
+  "version": "1.44.0",
+  "notes": "v1.44 Support for Virtual DJ cue reading, write and transfer",
+  "pub_date": "2026-11-09T01:19:02.727Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbnNFY253dUdRRXB3eVp4a0pmSWhTZWplZnByU2hEWjlXYXJFZEtzNTJIakZpcmpTVWV3cG9TV0dKSndoMnRMT1Fvd3d0bTErdDl6Z2ZoSjFoQ2kydUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM5NjQxCWZpbGU6dGFnYW1pXzEuNDNfdW5pdmVyc2FsLmFwcC50YXIuZ3oKZisyREpkZmlpRkJQODN3TTFZQUdlcFFTcHBhczcxUkkwV09XUG9WNEJZM3JPZTZQb3Q4V1UxNm41bzV5U0dkOVRNampWN20wN0h4ZG1rNWpVUmxaQVE9PQo=",
-      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.43/tagami_1.43_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbnV1bVlkT3prVVJsZmFqampFT0d0ZVZqbkI4TGZxU3cwY0QvWTRMU2dCYTYxQ1p6L0F2VStaRjFPZU14cXJmaXR5NXlIL05OUjhzc2p6NWx3cmpBa3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTg0ODM3CWZpbGU6dGFnYW1pXzEuNDRfdW5pdmVyc2FsLmFwcC50YXIuZ3oKc1gzZ1BlR1E3LzJaSnlNM1l6TWF2bWdNc3hTUE9XY3dycU42am10Yzk4NEJmVTZFcWVSYkZObTNvZ0Jyc3ZwTHQ1ZXYwSzhxWTNZUzk3TS94WHZQQnc9PQo=",
+      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.44/tagami_1.44_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbnNFY253dUdRRXB3eVp4a0pmSWhTZWplZnByU2hEWjlXYXJFZEtzNTJIakZpcmpTVWV3cG9TV0dKSndoMnRMT1Fvd3d0bTErdDl6Z2ZoSjFoQ2kydUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM5NjQxCWZpbGU6dGFnYW1pXzEuNDNfdW5pdmVyc2FsLmFwcC50YXIuZ3oKZisyREpkZmlpRkJQODN3TTFZQUdlcFFTcHBhczcxUkkwV09XUG9WNEJZM3JPZTZQb3Q4V1UxNm41bzV5U0dkOVRNampWN20wN0h4ZG1rNWpVUmxaQVE9PQo=",
-      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.43/tagami_1.43_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbnV1bVlkT3prVVJsZmFqampFT0d0ZVZqbkI4TGZxU3cwY0QvWTRMU2dCYTYxQ1p6L0F2VStaRjFPZU14cXJmaXR5NXlIL05OUjhzc2p6NWx3cmpBa3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTg0ODM3CWZpbGU6dGFnYW1pXzEuNDRfdW5pdmVyc2FsLmFwcC50YXIuZ3oKc1gzZ1BlR1E3LzJaSnlNM1l6TWF2bWdNc3hTUE9XY3dycU42am10Yzk4NEJmVTZFcWVSYkZObTNvZ0Jyc3ZwTHQ1ZXYwSzhxWTNZUzk3TS94WHZQQnc9PQo=",
+      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.44/tagami_1.44_universal.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbnBBNmVSNUhZUndhZmJ3TUl6UkhQcVFVc3IwWEE1ZEdOeElrRGhzOUFXaWNnc05VblZEY0c5K1dZLzlpdThJMXhlekN0MDE1cXpIYnpNTHRYeitYc3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDQ3MzEzCWZpbGU6dGFnYW1pXzEuNDMuMF94NjRfZW4tVVMubXNpCkdxY3RuWWNUdWtzWTlEZ0ZhbTZpSmltODJRdk9BbmkwcTNEakxjTkU5REl3QjBxbzg5VnRMSVUwbXBmNUJFQkxRS3VHaEV0cDNLSVdCV2Q2eGVqMkRBPT0K",
-      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.43/tagami_1.43.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3RrdG96c09MbnRjL1p4MkZIYWhBWlV4NE5JWW5PaWE0dDc5ekNHZUFNMGtJazBHK0dZcnZLMGpvd3Zub0xIZkNIWDJyUWhQZkRQTHJza003dU9zN0M0MVlkV0pPYlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTg2MTA0CWZpbGU6dGFnYW1pXzEuNDQuMF94NjRfZW4tVVMubXNpCnZsWHF1Y1ZLRlRXME1yWkNjMzljVExtMVcrTUhVUEhxZDYxdG1rOTMxeHp5NktYQUFyN2tUQVNtcjd2cG5oOFBianJuSi90ZUx3VjFNVUZERkVHV0NRPT0K",
+      "url": "https://github.com/soundtemple/soundtemple_releases/releases/download/tagami-v1.44/tagami_1.44.msi"
     }
   }
 }
